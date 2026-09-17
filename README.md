@@ -15,7 +15,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-supported-f7931e)
 ![NetworkX](https://img.shields.io/badge/NetworkX-supported-376795)
 ![Temporal Graphs](https://img.shields.io/badge/Temporal%20Graphs-query%20processing-blueviolet)
-[![DOI](https://img.shields.io/badge/DOI-10.1145%2F3594778.3594879-blue)](https://doi.org/10.1145/3594778.3594879)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22809353.svg)](https://doi.org/10.5281/zenodo.22809353)
 
 </div>
 
